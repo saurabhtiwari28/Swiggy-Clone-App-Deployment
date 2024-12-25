@@ -1,1 +1,0 @@
-# Swiggy-App-ArgoCD
